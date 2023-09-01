@@ -1,4 +1,4 @@
-![image](https://github.com/MJaved9/Exact-Space-Infinite-Scroll/assets/101566706/aa8a1428-d5ed-417f-af51-87a57c6c4f93)# Exact-Space-Infinite-Scroll
+# Exact-Space-Infinite-Scroll
 
 Exact-Space-Infinite-Scroll web application that allows users to Scroll infinite and see data.
 
