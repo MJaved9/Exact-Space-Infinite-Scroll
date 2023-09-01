@@ -1,9 +1,9 @@
-# Exact-Space-Infinite-Scroll
+![image](https://github.com/MJaved9/Exact-Space-Infinite-Scroll/assets/101566706/aa8a1428-d5ed-417f-af51-87a57c6c4f93)# Exact-Space-Infinite-Scroll
 
 Exact-Space-Infinite-Scroll web application that allows users to Scroll infinite and see data.
 
 ## Deployment
-The project is deployed and can be accessed at [deploed link](https://tow).
+The project is deployed and can be accessed at [deploed link](https://64f193a8c38df238771b3a53--neon-kashata-8ccb02.netlify.app/).
 
 
 ## Feed
